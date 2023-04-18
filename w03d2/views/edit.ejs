@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Edit Frog</title>
+</head>
+<body>
+
+  <form method="POST" action="/frogs/edit/<%= key %>">
+
+    <label for="name">name</label>
+    <input type="text" name="name" id="name" value="<%= frog.name %>"/>
+    <label for="description">description</label>
+    <input type="text" name="description" id="description" value="<%= frog.description %>"/>
+    <label for="region">region</label>
+    <input type="text" name="region" id="region" value="<%= frog.region %>"/>
+    <label for="picture">picture</label>
+    <input type="text" name="picture" id="picture" value="<%= frog.picture %>"/>
+
+    <button>Update</button>
+  </form>
+
+</body>
+</html>
