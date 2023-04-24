@@ -1,0 +1,150 @@
+(base) nally:/w02d3] node server.js 
+Server is listening on port=8978
+client sent: setName 207.102.221.225
+setting client name to: 207.102.221.225
+client sent: setName Nally
+
+setting client name to: Nally
+client sent: setName 24.85.226.88
+setting client name to: 24.85.226.88
+client sent: Hi!
+
+client sent: setName Adam
+
+setting client name to: Adam
+client sent: Hey
+
+client sent: setName 70.77.240.254
+setting client name to: 70.77.240.254
+client sent: Hello Nally
+
+client sent: setName 70.79.173.127
+setting client name to: 70.79.173.127
+client sent: setName 108.180.28.208
+setting client name to: 108.180.28.208
+client sent: Wahooooo
+
+client sent: setName Liana
+
+setting client name to: Liana
+client sent: hiii
+
+client sent: Hey Liana!
+
+client sent: setName Matt
+
+setting client name to: Matt
+client sent: setName 24.87.54.18
+setting client name to: 24.87.54.18
+client sent: setName FabiansetsetAset
+
+setting client name to: FabiansetsetAset
+client sent: bahahah
+
+client sent: setName Matt
+
+setting client name to: Matt
+client sent: ssetName Fabian
+
+client sent: setName 154.20.35.175
+setting client name to: 154.20.35.175
+client sent: hi
+
+client sent: setName 192.80.173.37
+setting client name to: 192.80.173.37
+client sent: hey Matt
+
+client sent: SetsetName Fabian
+
+client sent: Hi Adam
+
+client sent: hello everyOne
+
+client sent: setNamsetName Hooman
+
+client sent: setName 216.71.209.84
+setting client name to: 216.71.209.84
+client sent: setName Kayano
+
+setting client name to: Kayano
+client sent: setName 162.157.71.135
+setting client name to: 162.157.71.135
+client sent: hello
+
+client sent: Rukiye
+
+client sent: setName Hooman
+
+setting client name to: Hooman
+client sent: lool
+
+client sent: setName Kamila
+
+setting client name to: Kamila
+client sent: It's a party in here
+
+client sent: setNamHellsesetsetName setName Jongmin
+
+client sent: This is so confusing 
+
+client sent: WooOOoOOoOO~
+
+client sent: lol
+
+client sent: Very cool
+
+client sent: setName 172.103.211.35
+setting client name to: 172.103.211.35
+client sent: 😀
+
+client sent: 👀 👀 
+
+client sent: WOOWOOHOO
+
+client sent: 216.71.209.84:/:/
+
+client sent: :exploding_head: 
+
+client sent: Cool
+
+client sent: :(
+
+client sent: yeah it didn't like that
+
+client sent: no sorry
+
+client sent: the :
+
+client sent: 😀😀😀😀😀😀😀
+
+client sent: ya thatya that works
+
+client sent: 👀 
+
+client sent: 😀😀😀😀😀😀
+
+client sent: 😀😀😀😀😀😀😀
+
+client sent: worked for me too
+
+client sent: 😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀😀
+
+client sent: 🙃🙃🙃🙃🙃
+
+client sent: 🤓👍
+
+client sent: THANKS NALLY 😀😀
+
+client sent: Thank you Nally!
+
+client sent: Super fun
+
+client sent: thank you
+
+client sent: Thanks Nally!!!!
+
+client sent: Thanks thanks nally 🤓👍
+
+client sent: Thank you
+
+client sent: Thank you!
