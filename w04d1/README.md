@@ -7,9 +7,33 @@
 
 # Semantic HTML
 
-<header></header>
+<style>
+
+  * {
+    box-sizing: border-box;
+  }
+
+  article {
+    background-color: #black;
+    font-size: 32px;
+    display: inline;
+  }
+</style>
+
+
+
+<div>If I were to put a paragraph of text in <span>here</span> it would be displayed as a block level element by default.</div>
+<p>this is a block level display element</p>
+
+
+<span>is in-line by default</span>
+<em></em>
+
+<!-- semantic tags -->
+
+<header><ul><li>Home</li><li>Contact Us</li></ul></header>
 <main>
-  <article></article>
+  <article>I can put the most important stuff in here.</article>
 </main>
 <footer></footer>
 
